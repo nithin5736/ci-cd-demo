@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///d%3A/Documents/Courses/Harkirat%20Singh%20Cohort/ci-cd/week-18-2-ci-cd/.github/workflows/deploy.yml"
+    }
+}
